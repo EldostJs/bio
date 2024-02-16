@@ -1,0 +1,29 @@
+body{
+    background-color: #7C7C7C;
+}
+.head{
+    background-color: black;
+    color: #7C7C7C;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.section1{
+    border-style: none;
+}
+.name{
+    margin-left: 40px;
+}
+.text{
+    margin-left: 250px;
+    margin-top: -200px;
+    width: 400px;
+}
+.section2{
+    margin-left: 1100Px;
+    margin-top: -100px;
+}
+.img{
+    margin-left: 20px;
+    width: 200px;
+}
